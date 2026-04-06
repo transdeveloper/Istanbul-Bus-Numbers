@@ -1,4 +1,4 @@
-# Metro Lines Dataset
+# Bus Lines Dataset
 
 This repository contains parsed and cleaned data of Istanbul bus line information extracted from the official HTML source. It is exported in multiple formats for convenience and compatibility.
 
