@@ -1,0 +1,3127 @@
+<?xml version="1.0"?>
+<lines>
+  <line>
+    <code>1</code>
+    <name>KİRAZLITEPE - ACIBADEM / KADIKÖY</name>
+  </line>
+  <line>
+    <code>2</code>
+    <name>BOSTANCI - HAREM</name>
+  </line>
+  <line>
+    <code>3</code>
+    <name>BURHANİYE MAHALLESİ - KADIKÖY</name>
+  </line>
+  <line>
+    <code>4</code>
+    <name>MALTEPE SAHİL - KADIKÖY</name>
+  </line>
+  <line>
+    <code>5</code>
+    <name>VALİEVLERİ - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>6</code>
+    <name>ESATPAŞA / KÜÇÜKÇAMLICA - HAREM</name>
+  </line>
+  <line>
+    <code>7</code>
+    <name>TOPAĞACI MAHALLESİ / ÜMRANİYE - RASATHANE</name>
+  </line>
+  <line>
+    <code>8</code>
+    <name>VALİEVLERİ - KADIKÖY</name>
+  </line>
+  <line>
+    <code>10</code>
+    <name>Ü.EĞT.ARŞ.HASTANESİ - ATAŞEHİR / BOSTANCI</name>
+  </line>
+  <line>
+    <code>11</code>
+    <name>YENİDOĞAN - ALTUNİZADE METROBÜS</name>
+  </line>
+  <line>
+    <code>12</code>
+    <name>KADIKÖY - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>13</code>
+    <name>ATAŞEHİR / ÇAKMAK MAHALLESİ - KADIKÖY</name>
+  </line>
+  <line>
+    <code>15</code>
+    <name>BEYKOZ - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>17</code>
+    <name>PENDİK - KADIKÖY</name>
+  </line>
+  <line>
+    <code>19</code>
+    <name>FERHATPAŞA / YEDİTEPE ÜNİVERSİTESİ - UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>20</code>
+    <name>ORTAÇEŞME / KAVACIK - Ü.EĞT.ARŞ.HASTANESİ</name>
+  </line>
+  <line>
+    <code>22</code>
+    <name>İSTİNYE DEREİÇİ - KABATAŞ</name>
+  </line>
+  <line>
+    <code>25</code>
+    <name>HACIOSMAN METRO - HAVANTEPE</name>
+  </line>
+  <line>
+    <code>26</code>
+    <name>DİKİLİTAŞ - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>28</code>
+    <name>TOPKAPI / EDİRNEKAPI - BEŞİKTAŞ</name>
+  </line>
+  <line>
+    <code>29</code>
+    <name>İSTİNYE DEREİÇİ - ZİNCİRLİKUYU METROBÜS</name>
+  </line>
+  <line>
+    <code>31</code>
+    <name>KUYUMCUKENT - YENİKAPI</name>
+  </line>
+  <line>
+    <code>32</code>
+    <name>CEVATPAŞA - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>33</code>
+    <name>GİYİMKENT / TURGUTREİS - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>34</code>
+    <name>AVCILAR-ZİNCİRLİKUYU</name>
+  </line>
+  <line>
+    <code>35</code>
+    <name>KOCAMUSTAFAPAŞA - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>36</code>
+    <name>YENİ MAHALLE METRO - AKSARAY RİNG</name>
+  </line>
+  <line>
+    <code>38</code>
+    <name>SULTANGAZİ PERON-AKSARAY</name>
+  </line>
+  <line>
+    <code>40</code>
+    <name>RUMELİFENERİ / GARİPÇE - TAKSİM</name>
+  </line>
+  <line>
+    <code>41</code>
+    <name>SİNPAŞ SİTESİ - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>42</code>
+    <name>BAHÇEKÖY / FERAHEVLER - ZİNCİRLİKUYU METROBÜS</name>
+  </line>
+  <line>
+    <code>48</code>
+    <name>GÖKTÜRK - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>55</code>
+    <name>GAZİOSMANPAŞA - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>62</code>
+    <name>KAĞITHANE / GÜLTEPE - KABATAŞ</name>
+  </line>
+  <line>
+    <code>63</code>
+    <name>KAĞITHANE / ÇELİKTEPE - KABATAŞ</name>
+  </line>
+  <line>
+    <code>66</code>
+    <name>GÜLBAĞ - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>73</code>
+    <name>YENİBOSNA METRO- TAKSİM</name>
+  </line>
+  <line>
+    <code>74</code>
+    <name>HİLTON SİTESİ - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>76</code>
+    <name>BEYLİKDÜZÜ - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>77</code>
+    <name>YENİKAPI-ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>78</code>
+    <name>METROKENT - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>82</code>
+    <name>KUYUMCUKENT - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>87</code>
+    <name>TOPKAPI / EDİRNEKAPI - TAKSİM</name>
+  </line>
+  <line>
+    <code>88</code>
+    <name>SULTANGAZİ PERON - TOPKAPI</name>
+  </line>
+  <line>
+    <code>89</code>
+    <name>K.S.S. HASTANESİ/ATAKENT-AKSARAY</name>
+  </line>
+  <line>
+    <code>90</code>
+    <name>DRAMAN - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>92</code>
+    <name>YENİ MAHALLE METRO - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>93</code>
+    <name>ZEYTİNBURNU - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>97</code>
+    <name>15 TEMMUZ MAHALLESİ - AKSARAY</name>
+  </line>
+  <line>
+    <code>98</code>
+    <name>FENERTEPE/BAŞAKŞEHİR - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>132</code>
+    <name>AKFIRAT / TEPEÖREN - KARTAL</name>
+  </line>
+  <line>
+    <code>134</code>
+    <name>VIAPORT / HİLAL KONUTLARI - KARTAL</name>
+  </line>
+  <line>
+    <code>135</code>
+    <name>POYRAZKÖY - SULTANİYE</name>
+  </line>
+  <line>
+    <code>136</code>
+    <name>DEĞİRMENDERE - SULTANİYE</name>
+  </line>
+  <line>
+    <code>137</code>
+    <name>CUMHURİYET KÖYÜ / RİVA - BEYKOZ / SULTANİYE</name>
+  </line>
+  <line>
+    <code>138</code>
+    <name>CUMHURİYET KÖYÜ / ÖMERLİ - ÜMRANİYE</name>
+  </line>
+  <line>
+    <code>139</code>
+    <name>ÜSKÜDAR - ŞİLE</name>
+  </line>
+  <line>
+    <code>142</code>
+    <name>BOĞAZKÖY - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>143</code>
+    <name>KÜÇÜKÇEKMECE - İSTOÇ</name>
+  </line>
+  <line>
+    <code>144</code>
+    <name>BOĞAZKÖY/BAHÇEKENT-HARAMİDERE</name>
+  </line>
+  <line>
+    <code>145</code>
+    <name>İHLAS MARMARA EVLERİ - KÜÇÜKÇEKMECE MARMARAY</name>
+  </line>
+  <line>
+    <code>146</code>
+    <name>BOĞAZKÖY / BAHÇEŞEHİR - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>147</code>
+    <name>ŞAHİNTEPE İGTOT - AVCILAR CİHANGİR MAHALLESİ</name>
+  </line>
+  <line>
+    <code>150</code>
+    <name>HACIOSMAN METRO - RUMELİFENERİ</name>
+  </line>
+  <line>
+    <code>151</code>
+    <name>HACIOSMAN METRO - KİLYOS / DEMİRCİKÖY</name>
+  </line>
+  <line>
+    <code>152</code>
+    <name>HACIOSMAN METRO - ZEKERİYAKÖY / KISIRKAYA</name>
+  </line>
+  <line>
+    <code>153</code>
+    <name>BAHÇEKÖY - SARIYER</name>
+  </line>
+  <line>
+    <code>154</code>
+    <name>HACIOSMAN METRO - KOÇ ÜNİVERSİTESİ</name>
+  </line>
+  <line>
+    <code>251</code>
+    <name>PENDİK - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>256</code>
+    <name>YEDİTEPE ÜNİVERSİTESİ / ATAŞEHİR - TAKSİM</name>
+  </line>
+  <line>
+    <code>300</code>
+    <name>SİLİVRİ-TÜYAP</name>
+  </line>
+  <line>
+    <code>319</code>
+    <name>KAYIŞDAĞI - UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>320</code>
+    <name>FERHATPAŞA - ÜMRANİYE METRO/ÇAMLICA CAMİİ</name>
+  </line>
+  <line>
+    <code>336</code>
+    <name>ARNAVUTKÖY - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>401</code>
+    <name>ÇATALCA - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>402</code>
+    <name>BİNKILIÇ - ÇATALCA</name>
+  </line>
+  <line>
+    <code>403</code>
+    <name>ÇİFTLİKKÖY - ÇATALCA</name>
+  </line>
+  <line>
+    <code>404</code>
+    <name>YALIKÖY / KARACAKÖY - ÇATALCA</name>
+  </line>
+  <line>
+    <code>418</code>
+    <name>HADIMKÖY - HARAMİDERE</name>
+  </line>
+  <line>
+    <code>448</code>
+    <name>GÜZELCE - HARAMİDERE</name>
+  </line>
+  <line>
+    <code>458</code>
+    <name>GÜRPINAR - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>522</code>
+    <name>ÖZYEĞİN ÜNİVERSİTESİ / ALEMDAĞ - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>622</code>
+    <name>YENİDOĞAN - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>10A</code>
+    <name>ESATPAŞA - YEDİTEPE ÜNİVERSİTESİ / FERHATPAŞA</name>
+  </line>
+  <line>
+    <code>10E</code>
+    <name>ESATPAŞA - KADIKÖY</name>
+  </line>
+  <line>
+    <code>10EK</code>
+    <name>ESATPAŞA / ATAŞEHİR - KOZYATAĞI METRO</name>
+  </line>
+  <line>
+    <code>10F</code>
+    <name>ÜMRANİYE / FİNANS MERKEZİ - BOSTANCI</name>
+  </line>
+  <line>
+    <code>11A</code>
+    <name>ÖZYEĞİN ÜNİVERSİTESİ / ALEMDAĞ - ALTUNİZADE METROBÜS</name>
+  </line>
+  <line>
+    <code>11BE</code>
+    <name>BURHANİYE MAHALLESİ - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>11C</code>
+    <name>BURHANİYE MAHALLESİ - ÜSKÜDAR MARMARAY</name>
+  </line>
+  <line>
+    <code>11ÇB</code>
+    <name>KAVACIK / ÇAVUŞBAŞI - ÜMRANİYE</name>
+  </line>
+  <line>
+    <code>11CÜ</code>
+    <name>BURHANİYE MAHALLESİ - ÜMRANİYE METRO/RİNG</name>
+  </line>
+  <line>
+    <code>11D</code>
+    <name>İNKILAP MAHALLESİ - ÜMRANİYE METRO</name>
+  </line>
+  <line>
+    <code>11E</code>
+    <name>ESATPAŞA - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>11ES</code>
+    <name>ESENEVLER - ACIBADEM METROBÜS / ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>11G</code>
+    <name>YENİDOĞAN - NECİP FAZIL METRO</name>
+  </line>
+  <line>
+    <code>11H</code>
+    <name>ORTAÇEŞME - ÜMRANİYE</name>
+  </line>
+  <line>
+    <code>11K</code>
+    <name>KAZIM KARABEKİR MAHALLESİ - ÜMRANİYE METRO</name>
+  </line>
+  <line>
+    <code>11L</code>
+    <name>ESATPAŞA / BULGURLU - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>11M</code>
+    <name>EVTAŞ BLOKLARI - BULGURLU METRO</name>
+  </line>
+  <line>
+    <code>11P</code>
+    <name>EMEK MAHALLESİ - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>11R</code>
+    <name>REŞADİYE - NECİP FAZIL METRO</name>
+  </line>
+  <line>
+    <code>11SA</code>
+    <name>UĞUR MUMCU / SAMANDIRA - YENİDOĞAN PERONLAR</name>
+  </line>
+  <line>
+    <code>11ST</code>
+    <name>DUMLUPINAR - ÜMRANIYE METRO</name>
+  </line>
+  <line>
+    <code>11T</code>
+    <name>ACARLAR SİTESİ - HAREM</name>
+  </line>
+  <line>
+    <code>11Ü</code>
+    <name>ESATPAŞA / ÜNALAN - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>11ÜS</code>
+    <name>SULTANBEYLİ - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>11Y</code>
+    <name>YAVUZTÜRK MAHALLESİ - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>121A</code>
+    <name>BEYKOZ - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>121B</code>
+    <name>KAVACIK - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>121BS</code>
+    <name>SULTANİYE / SOĞUKSU MAHALLESİ - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>122C</code>
+    <name>TEPEÜSTÜ - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>122ÇK</code>
+    <name>ŞAHİNBEY - KAVACIK</name>
+  </line>
+  <line>
+    <code>122D</code>
+    <name>ATATÜRK MAHALLESİ - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>122H</code>
+    <name>S.GÖKÇEN HAVALİMANI / YENİŞEHİR - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>122M</code>
+    <name>ŞAHİNBEY - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>122V</code>
+    <name>VEYSEL KARANİ - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>122Y</code>
+    <name>ÇEKMEKÖY - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>129L</code>
+    <name>KOZYATAĞI - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>129T</code>
+    <name>BOSTANCI - TAKSİM</name>
+  </line>
+  <line>
+    <code>12A</code>
+    <name>KADIKÖY - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>12C</code>
+    <name>ÜSKÜDAR DEVLET HASTANESİ - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>130A</code>
+    <name>DENİZ HARP OKULU - KADIKÖY</name>
+  </line>
+  <line>
+    <code>130E</code>
+    <name>TUZLA / EVORA KONUTLARI - KARTAL METRO / CEVİZLİ</name>
+  </line>
+  <line>
+    <code>130H</code>
+    <name>DENİZ HARP OKULU - SABİHA GÖKÇEN HAVALİMANI</name>
+  </line>
+  <line>
+    <code>130Ş</code>
+    <name>ŞİFA MAHALLESİ - UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>130ŞT</code>
+    <name>ŞİFA MAHALLESİ - TAVŞANTEPE METRO</name>
+  </line>
+  <line>
+    <code>130T</code>
+    <name>AYDINLI TOKİ KONUTLARI - TUZLA</name>
+  </line>
+  <line>
+    <code>131K</code>
+    <name>YEŞİLTEPE / ŞAHİNBEY - KARTAL</name>
+  </line>
+  <line>
+    <code>131SB</code>
+    <name>SULTANBEYLİ MERKEZ-SULTANBEYLİ YENİ DEVLET HAST.</name>
+  </line>
+  <line>
+    <code>131T</code>
+    <name>ATATÜRK MAH./ TAŞDELEN - İMES/ ÜMRANİYE</name>
+  </line>
+  <line>
+    <code>131V</code>
+    <name>VEYSEL KARANİ - YAKACIK / KARTAL</name>
+  </line>
+  <line>
+    <code>131Y</code>
+    <name>ÇEKMEKÖY/SAMANDIRA-KARTAL</name>
+  </line>
+  <line>
+    <code>131YS</code>
+    <name>SULTANBEYLİ DEVLET HASTANESİ - YENİDOĞAN - ÜMRANİYE</name>
+  </line>
+  <line>
+    <code>132A</code>
+    <name>ÇAMLIK MAHALLESİ - KARTAL</name>
+  </line>
+  <line>
+    <code>132B</code>
+    <name>AKFIRAT EVLERİ - KARTAL METRO</name>
+  </line>
+  <line>
+    <code>132C</code>
+    <name>SULTANBEYLİ GÖLET - KARTAL</name>
+  </line>
+  <line>
+    <code>132ÇK</code>
+    <name>ÇEKMEKÖY - KARTAL</name>
+  </line>
+  <line>
+    <code>132D</code>
+    <name>KURTDOĞMUŞ / BALLICA - KARTAL</name>
+  </line>
+  <line>
+    <code>132E</code>
+    <name>EMİRLİ / KURNAKÖY - KARTAL</name>
+  </line>
+  <line>
+    <code>132F</code>
+    <name>ESENLER - TAVŞANTEPE METRO/ KARTAL</name>
+  </line>
+  <line>
+    <code>132G</code>
+    <name>GÖZDAĞI - PENDİK YHT/PENDİK</name>
+  </line>
+  <line>
+    <code>132H</code>
+    <name>PENDİK/PENDİK YHT - SABİHA GÖKÇEN HAVALİMANI</name>
+  </line>
+  <line>
+    <code>132K</code>
+    <name>YENİŞEHİR - KARTAL</name>
+  </line>
+  <line>
+    <code>132M</code>
+    <name>SULTANBEYLİ MİMARSİNAN - KARTAL METRO / CEVİZLİ</name>
+  </line>
+  <line>
+    <code>132N</code>
+    <name>ÖZYEĞİN ÜNİ./NİŞANTEPE/BÜYÜKBAKKALKÖY-KARTAL</name>
+  </line>
+  <line>
+    <code>132P</code>
+    <name>VEYSEL KARANİ / SULTANBEYLİ - KARTAL</name>
+  </line>
+  <line>
+    <code>132S</code>
+    <name>YENİDOĞAN - KARTAL</name>
+  </line>
+  <line>
+    <code>132SB</code>
+    <name>SULTANBEYLİ DEVLET HAST.- MARMARA ÜNİV. BAŞIBÜYÜK KAMPÜSÜ</name>
+  </line>
+  <line>
+    <code>132SP</code>
+    <name>SULTANBEYLİ PERONLAR-PENDİK YHT/PENDİK</name>
+  </line>
+  <line>
+    <code>132T</code>
+    <name>TEPEÖREN - KARTAL METRO</name>
+  </line>
+  <line>
+    <code>132Y</code>
+    <name>HİLAL KONUTLARI / YAYALAR - KARTAL METRO</name>
+  </line>
+  <line>
+    <code>132YB</code>
+    <name>YENİDOĞAN - MARMARA ÜNİVERSİTESİ BAŞIBÜYÜK KAMPÜSÜ</name>
+  </line>
+  <line>
+    <code>132YM</code>
+    <name>YEŞİLTEPE-MARMARA EĞİTİM KÖYÜ</name>
+  </line>
+  <line>
+    <code>132YS</code>
+    <name>YENİDOĞAN/SULTANBEYLİ DEVLET HAST.-SULTANBEYLİ PERONLAR</name>
+  </line>
+  <line>
+    <code>132Z</code>
+    <name>SULTANBEYLİ UZUNDERE - KARTAL</name>
+  </line>
+  <line>
+    <code>133A</code>
+    <name>AYDINLI BAHÇELER - KARTAL</name>
+  </line>
+  <line>
+    <code>133AK</code>
+    <name>TEPEÖREN - KARTAL</name>
+  </line>
+  <line>
+    <code>133F</code>
+    <name>ACARLAR SİTESİ - MALTEPE / CEVİZLİ PERONLAR</name>
+  </line>
+  <line>
+    <code>133G</code>
+    <name>GÜLENSU MAHALLESİ - KARTAL</name>
+  </line>
+  <line>
+    <code>133GP</code>
+    <name>GÖÇBEYLİ - KARTAL</name>
+  </line>
+  <line>
+    <code>133K</code>
+    <name>KURTKÖY SANAYİ MAHALLESİ / KAVAKPINAR - KARTAL</name>
+  </line>
+  <line>
+    <code>133KT</code>
+    <name>AYDINLI TOKİ KONUTLARI - KARTAL</name>
+  </line>
+  <line>
+    <code>133M</code>
+    <name>TUZLA ORGANİZE SANAYİ - KAFKALE TUZLA SAHİL</name>
+  </line>
+  <line>
+    <code>133N</code>
+    <name>MALTEPE ÜNİVERSİTESİ - MALTEPE METRO / KARTAL</name>
+  </line>
+  <line>
+    <code>133P</code>
+    <name>TEPEÖREN - TUZLA</name>
+  </line>
+  <line>
+    <code>133Ş</code>
+    <name>ÇAĞDAŞKENT/ ŞEKERPINAR MAH. - KARTAL</name>
+  </line>
+  <line>
+    <code>133T</code>
+    <name>DENİZ HARP OKULU-MALTEPE PERONLAR</name>
+  </line>
+  <line>
+    <code>133TM</code>
+    <name>AYDINLI TOKİ/MİMARSİNAN MAHALLESİ - TUZLA</name>
+  </line>
+  <line>
+    <code>133Ü</code>
+    <name>GAZİ BULVARI/ ORHANLI - PENDİK METRO/YHT/PENDİK</name>
+  </line>
+  <line>
+    <code>134CK</code>
+    <name>ŞEYHLİ MEZARLIK/CEZAEVİ - KARTAL</name>
+  </line>
+  <line>
+    <code>134GK</code>
+    <name>UĞUR MUMCU/ GÜMÜŞPINAR - KARTAL</name>
+  </line>
+  <line>
+    <code>134UK</code>
+    <name>UĞUR MUMCU - KARTAL</name>
+  </line>
+  <line>
+    <code>134YK</code>
+    <name>UĞUR MUMCU - YAKACIK - KARTAL</name>
+  </line>
+  <line>
+    <code>135A</code>
+    <name>ACARKENT / GÖRELE MAHALLESİ - KAVACIK</name>
+  </line>
+  <line>
+    <code>135G</code>
+    <name>TOKATKÖY - ÇAVUŞBAŞI</name>
+  </line>
+  <line>
+    <code>135K</code>
+    <name>KARLITEPE - ORTAÇEŞME</name>
+  </line>
+  <line>
+    <code>135T</code>
+    <name>ARKBOYU - TOKATKÖY</name>
+  </line>
+  <line>
+    <code>136B</code>
+    <name>TÜRK ALMAN ÜNİVERSİTESİ - KAVACIK/HEKİMBAŞI</name>
+  </line>
+  <line>
+    <code>136R</code>
+    <name>RİVA - KAVACIK</name>
+  </line>
+  <line>
+    <code>136T</code>
+    <name>TOYGAR / SULTANİYE - KAVACIK</name>
+  </line>
+  <line>
+    <code>136Z</code>
+    <name>ALİ BAHADIR / ZERZEVAT - SULTANİYE</name>
+  </line>
+  <line>
+    <code>138B</code>
+    <name>GÖLLÜ/ÖMERLİ-ÜMRANİYE</name>
+  </line>
+  <line>
+    <code>139A</code>
+    <name>ÜSKÜDAR - ŞİLE / AĞVA</name>
+  </line>
+  <line>
+    <code>139D</code>
+    <name>NECİP FAZIL METRO-DARLIK</name>
+  </line>
+  <line>
+    <code>139S</code>
+    <name>NECİP FAZIL METRO-SOFULAR KÖYÜ</name>
+  </line>
+  <line>
+    <code>139T</code>
+    <name>TEPEÜSTÜ - ŞİLE</name>
+  </line>
+  <line>
+    <code>13AB</code>
+    <name>KISIKLI - ATAŞEHİR / BOSTANCI</name>
+  </line>
+  <line>
+    <code>13B</code>
+    <name>YENİŞEHİR - KADIKÖY</name>
+  </line>
+  <line>
+    <code>13FY</code>
+    <name>BATI ATAŞEHİR / FİNANS MERKEZİ - MEVLANA METRO / FERHATPAŞA</name>
+  </line>
+  <line>
+    <code>13H</code>
+    <name>EVTAŞ BLOKLARI - ÜMRANİYE METRO / Ü.EĞT.ARŞ.HASTANESİ</name>
+  </line>
+  <line>
+    <code>13M</code>
+    <name>ŞERİFALİ - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>13Y</code>
+    <name>ÇAKMAK MAHALLESİ / YENİSAHRA - KADIKÖY</name>
+  </line>
+  <line>
+    <code>141A</code>
+    <name>K.S.S. HASTANESİ- MEHMET AKİF ERSOY CAD</name>
+  </line>
+  <line>
+    <code>141K</code>
+    <name>K.S.S. HASTANESİ - MAHMUTBEY METRO</name>
+  </line>
+  <line>
+    <code>141M</code>
+    <name>K.S.S. HASTANESİ - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>142A</code>
+    <name>BOĞAZKÖY - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>142B</code>
+    <name>K.S.S. HASTANESİ - BÜYÜKÇEKMECE</name>
+  </line>
+  <line>
+    <code>142E</code>
+    <name>ESENYURT KİPTAŞ 4. ETAP - AKSARAY</name>
+  </line>
+  <line>
+    <code>142ES</code>
+    <name>İ.Ü.CERRAHPAŞA KAMPÜS - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>142F</code>
+    <name>YEŞİLKENT - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>142K</code>
+    <name>ESENYURT KİPTAŞ 4.ETAP - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>142T</code>
+    <name>TÜYAP METROBÜS-K.S.S HASTANESİ</name>
+  </line>
+  <line>
+    <code>144A</code>
+    <name>DELİKLİKAYA - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>144B</code>
+    <name>DELİKLİKAYA - YEŞİLBAYIR KÖYÜ - SU ÜRÜNLERİ HALİ</name>
+  </line>
+  <line>
+    <code>144H</code>
+    <name>HEYBETLİ SOK./DELİKLİKAYA - HARAMİDERE</name>
+  </line>
+  <line>
+    <code>144K</code>
+    <name>ÖMERLİ KİPTAŞ-ESENKENT</name>
+  </line>
+  <line>
+    <code>144M</code>
+    <name>DELİKLİKAYA-MAHMUTBEY METRO</name>
+  </line>
+  <line>
+    <code>145M</code>
+    <name>BEYKENT - TAKSİM</name>
+  </line>
+  <line>
+    <code>145T</code>
+    <name>BEYLİKDÜZÜ - TAKSİM</name>
+  </line>
+  <line>
+    <code>146A</code>
+    <name>ESENKENT - BİRLİK MAHALLESİ</name>
+  </line>
+  <line>
+    <code>146B</code>
+    <name>METROKENT-EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>146F</code>
+    <name>ŞEHİR HASTANESİ/ ESENKENT - ESENYURT DEVLET HASTANESİ</name>
+  </line>
+  <line>
+    <code>146M</code>
+    <name>METROKENT - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>146T</code>
+    <name>BOĞAZKÖY / BAHÇEŞEHİR - YENİKAPI</name>
+  </line>
+  <line>
+    <code>14A</code>
+    <name>ÖZYEĞİN ÜNİVERSİTESİ / ALEMDAĞ - UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>14B</code>
+    <name>ADEM YAVUZ MAHALLESİ - KADIKÖY</name>
+  </line>
+  <line>
+    <code>14BK</code>
+    <name>ÇEKMEKÖY/PARSELLER MAH - UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>14C</code>
+    <name>ÜSKÜDAR DEVLET HASTANESİ - KADIKÖY</name>
+  </line>
+  <line>
+    <code>14CE</code>
+    <name>ÇEKMEKÖY - DUDULLU METRO</name>
+  </line>
+  <line>
+    <code>14D</code>
+    <name>DUMLUPINAR / KAZIMKARABEKİR - KADIKÖY</name>
+  </line>
+  <line>
+    <code>14DK</code>
+    <name>İNKILAP MAHALLESİ - LİBADİYE CADDESİ / UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>14ES</code>
+    <name>ESENŞEHİR - KADIKÖY</name>
+  </line>
+  <line>
+    <code>14F</code>
+    <name>KÜPLÜCE - KADIKÖY</name>
+  </line>
+  <line>
+    <code>14FD</code>
+    <name>FERAH MAHALLESİ - ÜSKÜDAR DEVLET HASTANESİ</name>
+  </line>
+  <line>
+    <code>14K</code>
+    <name>KAZIM KARABEKİR - KADIKÖY</name>
+  </line>
+  <line>
+    <code>14KS</code>
+    <name>SULTANBEYLİ GÖLET - KOZYATAĞI METRO</name>
+  </line>
+  <line>
+    <code>14M</code>
+    <name>KAVACIK YENİ CAMİ - KADIKÖY</name>
+  </line>
+  <line>
+    <code>14R</code>
+    <name>RASATHANE - KADIKÖY</name>
+  </line>
+  <line>
+    <code>14S</code>
+    <name>SULTANBEYLİ - KOZYATAĞI METRO</name>
+  </line>
+  <line>
+    <code>14ŞB</code>
+    <name>ŞAHİNBEY - KADIKÖY</name>
+  </line>
+  <line>
+    <code>14T</code>
+    <name>ATATÜRK MAH./ TAŞDELEN - KOZYATAĞI METRO</name>
+  </line>
+  <line>
+    <code>14TM</code>
+    <name>TEPEÜSTÜ-MALTEPE METRO/CEVİZLİ PERONLAR</name>
+  </line>
+  <line>
+    <code>14Y</code>
+    <name>YAVUZTÜRK MAHALLESİ - KADIKÖY</name>
+  </line>
+  <line>
+    <code>14YE</code>
+    <name>YAVUZTÜRK MAHALLESİ / ÜMRANİYE - EMEK MAHALLESİ</name>
+  </line>
+  <line>
+    <code>14YK</code>
+    <name>YENİDOĞAN / ŞİLE YOLU - AYRILIK ÇEŞMESİ</name>
+  </line>
+  <line>
+    <code>15A</code>
+    <name>ANADOLUKAVAĞI - KAVACIK</name>
+  </line>
+  <line>
+    <code>15B</code>
+    <name>TOPAĞACI MAHALLESİ / GÜZELTEPE - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15BK</code>
+    <name>DERESEKİ / BEYKOZ - KADIKÖY</name>
+  </line>
+  <line>
+    <code>15C</code>
+    <name>BÜYÜK ÇAMLICA CAMİİ/FERAH MAHALLESİ - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15CA</code>
+    <name>BÜYÜK ÇAMLICA CAMİİ / BULGURLU METRO - GÖZTEPE KÖPRÜSÜ</name>
+  </line>
+  <line>
+    <code>15ÇB</code>
+    <name>KAVACIK - ÇAVUŞBAŞI / ÇENGELDERE</name>
+  </line>
+  <line>
+    <code>15ÇK</code>
+    <name>GÜZELTEPE - KADIKÖY</name>
+  </line>
+  <line>
+    <code>15D</code>
+    <name>ANADOLUFENERİ /KAYNARCA / DERESEKİ - SULTANİYE</name>
+  </line>
+  <line>
+    <code>15E</code>
+    <name>TEKKE MEVKİİ - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15F</code>
+    <name>BEYKOZ - KADIKÖY</name>
+  </line>
+  <line>
+    <code>15H</code>
+    <name>HEKİMBAŞI - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15K</code>
+    <name>KİRAZLITEPE - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15KB</code>
+    <name>KAVACIK - KOZYATAĞI METRO</name>
+  </line>
+  <line>
+    <code>15KÇ</code>
+    <name>KARANLIKDERE / ÇAVUŞBAŞI - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15M</code>
+    <name>KAVACIK YENİ CAMİ - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15N</code>
+    <name>ARKBOYU - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15P</code>
+    <name>SOĞUKSU MAHALLESİ - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15R</code>
+    <name>RASATHANE - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15S</code>
+    <name>SULTANMURAT - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15SD</code>
+    <name>ORTAÇEŞME/SULTANİYE-DUDULLU İMES</name>
+  </line>
+  <line>
+    <code>15SK</code>
+    <name>SULTANMURAT - KADIKÖY</name>
+  </line>
+  <line>
+    <code>15ŞN</code>
+    <name>ŞENEVLER - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15T</code>
+    <name>TOKATKÖY - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15TA</code>
+    <name>TÜRK ALMAN ÜNİVERSİTESİ-KAVACIK</name>
+  </line>
+  <line>
+    <code>15TK</code>
+    <name>TOKATKÖY - UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>15TY</code>
+    <name>TOKATKÖY / BEYKOZ - YENİMAHALLE</name>
+  </line>
+  <line>
+    <code>15U</code>
+    <name>TUFAN - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15Y</code>
+    <name>YENİMAHALLE - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>15YK</code>
+    <name>YENİMAHALLE - KADIKÖY</name>
+  </line>
+  <line>
+    <code>15Z</code>
+    <name>GÜZELTEPE - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>16A</code>
+    <name>PENDİK - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>16D</code>
+    <name>ALTKAYNARCA / PENDİK - KADIKÖY</name>
+  </line>
+  <line>
+    <code>16F</code>
+    <name>FINDIKLI MAHALLESİ - HAREM</name>
+  </line>
+  <line>
+    <code>16M</code>
+    <name>ACARLAR SİTESİ / ATAŞEHİR - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>16U</code>
+    <name>UĞUR MUMCU - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>16YK</code>
+    <name>Y.TEPE ÜNİV. / FINDIKLI MAHALLESİ - KOZYATAĞI METRO</name>
+  </line>
+  <line>
+    <code>17L</code>
+    <name>KÜÇÜKYALI LOJMANLARI / MARMARA ÜNİV. - BOSTANCI</name>
+  </line>
+  <line>
+    <code>17S</code>
+    <name>UĞUR MUMCU - BOSTANCI</name>
+  </line>
+  <line>
+    <code>18D</code>
+    <name>SULTANBEYLİ - UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>18K</code>
+    <name>SULTANBEYLİ - UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>18UK</code>
+    <name>UZUNDERE-KOZYATAĞI</name>
+  </line>
+  <line>
+    <code>18YS</code>
+    <name>YENİDOĞAN-SULTANBEYLİ</name>
+  </line>
+  <line>
+    <code>19A</code>
+    <name>YENİDOĞAN - AYRILIK ÇEŞMESİ</name>
+  </line>
+  <line>
+    <code>19D</code>
+    <name>ÜMRANİYE - BOSTANCI</name>
+  </line>
+  <line>
+    <code>19E</code>
+    <name>YENİDOĞAN/ ATAŞEHİR - KOZYATAĞI METRO</name>
+  </line>
+  <line>
+    <code>19EK</code>
+    <name>YENİDOĞAN/ ATAŞEHİR - UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>19F</code>
+    <name>YEDİTEPE ÜNİV. / FINDIKLI MAHALLESİ - KADIKÖY</name>
+  </line>
+  <line>
+    <code>19K</code>
+    <name>ACARLAR SİTESİ / KAYIŞDAĞI - KADIKÖY</name>
+  </line>
+  <line>
+    <code>19M</code>
+    <name>ACARLAR SİTESİ / ATAŞEHİR - KADIKÖY</name>
+  </line>
+  <line>
+    <code>19S</code>
+    <name>YENİDOĞAN / SARIGAZİ - KADIKÖY</name>
+  </line>
+  <line>
+    <code>19SK</code>
+    <name>YENIDOĞAN/SARIGAZI-KOZYATAĞI METRO</name>
+  </line>
+  <line>
+    <code>19T</code>
+    <name>FERHATPAŞA - UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>19V</code>
+    <name>VEYSEL KARANİ / SAMANDIRA - KOZYATAĞI METRO</name>
+  </line>
+  <line>
+    <code>19Y</code>
+    <name>FERHATPAŞA - KADIKÖY</name>
+  </line>
+  <line>
+    <code>19YK</code>
+    <name>YENİDOĞAN-KAYIŞDAĞI</name>
+  </line>
+  <line>
+    <code>20D</code>
+    <name>SARIGAZİ/YENİŞEHİR-KADIKÖY</name>
+  </line>
+  <line>
+    <code>20E</code>
+    <name>ESATPAŞA - UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>20K</code>
+    <name>KAZIM KARABEKİR - KADIKÖY</name>
+  </line>
+  <line>
+    <code>20Ü</code>
+    <name>ÜMRANİYE TEPEÜSTÜ - UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>22B</code>
+    <name>BEBEK - KABATAŞ</name>
+  </line>
+  <line>
+    <code>22RE</code>
+    <name>FATİH SULTAN MEHMET - BEŞİKTAŞ</name>
+  </line>
+  <line>
+    <code>25A</code>
+    <name>RUMELİKAVAĞI - HACIOSMAN METRO</name>
+  </line>
+  <line>
+    <code>25C</code>
+    <name>TARABYAÜSTÜ / FERAHEVLER - İSTİNYE</name>
+  </line>
+  <line>
+    <code>25E</code>
+    <name>SARIYER - BALTALİMANI</name>
+  </line>
+  <line>
+    <code>25G</code>
+    <name>SARIYER - TAKSİM</name>
+  </line>
+  <line>
+    <code>25S1</code>
+    <name>HACIOSMAN METRO-SARIYER</name>
+  </line>
+  <line>
+    <code>25S2</code>
+    <name>HACIOSMAN METRO-SARIYER</name>
+  </line>
+  <line>
+    <code>25Y</code>
+    <name>HACIOSMAN METRO - YENİ UYUM SİTESİ</name>
+  </line>
+  <line>
+    <code>26A</code>
+    <name>FULYA MAHALLESİ - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>26B</code>
+    <name>FULYA MAHALLESİ - KABATAŞ</name>
+  </line>
+  <line>
+    <code>27E</code>
+    <name>ŞİRİNTEPE - KABATAŞ</name>
+  </line>
+  <line>
+    <code>27SE</code>
+    <name>SEYRANTEPE - KABATAŞ</name>
+  </line>
+  <line>
+    <code>27T</code>
+    <name>ŞİRİNTEPE - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>28T</code>
+    <name>TOPKAPI - BEŞİKTAŞ</name>
+  </line>
+  <line>
+    <code>29A</code>
+    <name>DERBENT MAHALLESİ - BEŞİKTAŞ</name>
+  </line>
+  <line>
+    <code>29B</code>
+    <name>FATİH SULTAN MEHMET - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>29C</code>
+    <name>TARABYAÜSTÜ - KABATAŞ</name>
+  </line>
+  <line>
+    <code>29D</code>
+    <name>FERAHEVLER - KABATAŞ</name>
+  </line>
+  <line>
+    <code>29E</code>
+    <name>MASLAK GAZETECİLER SİTESİ - BEŞİKTAŞ</name>
+  </line>
+  <line>
+    <code>29GM</code>
+    <name>MASLAK GAZETECİLER SİTESİ - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>29M1</code>
+    <name>HACIOSMAN METRO - FERAHEVLER / İSTİNYE</name>
+  </line>
+  <line>
+    <code>29M2</code>
+    <name>HACIOSMAN METRO - İSTİNYE / FERAHEVLER</name>
+  </line>
+  <line>
+    <code>29Ş</code>
+    <name>İSTİNYE DEREİÇİ - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>300B</code>
+    <name>SİLİVRİ BÜYÜKÇAVUŞLU-TÜYAP</name>
+  </line>
+  <line>
+    <code>300C</code>
+    <name>SİLİVRİ ÇANTA/SANCAKTEPE-TÜYAP</name>
+  </line>
+  <line>
+    <code>300D</code>
+    <name>SİLİVRİ DEĞİRMENKÖY-TÜYAP</name>
+  </line>
+  <line>
+    <code>300G</code>
+    <name>SİLİVRİ GÜMÜŞYAKA-TÜYAP</name>
+  </line>
+  <line>
+    <code>300M</code>
+    <name>SİLİVRİ MİMARSİNAN/KAVAKLI-TÜYAP</name>
+  </line>
+  <line>
+    <code>303A</code>
+    <name>SİLİVRİ - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>303B</code>
+    <name>MARMARA CEZAEVİ - OTOGAR</name>
+  </line>
+  <line>
+    <code>30A</code>
+    <name>BEŞİKTAŞ - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>30D</code>
+    <name>ORTAKÖY DEREBOYU - YENİKAPI</name>
+  </line>
+  <line>
+    <code>30M</code>
+    <name>BEŞİKTAŞ - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>31E</code>
+    <name>KUYUMCUKENT - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>31Y</code>
+    <name>TOKİ AYAZMA - YENİKAPI</name>
+  </line>
+  <line>
+    <code>320A</code>
+    <name>SULTANBEYLİ MİMARSİNAN / SAMANDIRA - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>320Y</code>
+    <name>YENİDOĞAN - KOZYATAĞI METRO</name>
+  </line>
+  <line>
+    <code>32A</code>
+    <name>CEVATPAŞA - AKSARAY</name>
+  </line>
+  <line>
+    <code>32M</code>
+    <name>CEVATPAŞA - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>32T</code>
+    <name>CEVATPAŞA - TAKSİM</name>
+  </line>
+  <line>
+    <code>336A</code>
+    <name>BALABAN KÖYÜ - MESCİDİ SELAM</name>
+  </line>
+  <line>
+    <code>336E</code>
+    <name>SULTANÇİFTLİĞİ - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>336G</code>
+    <name>TAŞOLUK PERON - TEKSTİLKENT METRO</name>
+  </line>
+  <line>
+    <code>336H</code>
+    <name>HADIMKÖY - MESCİDİ SELAM</name>
+  </line>
+  <line>
+    <code>336K</code>
+    <name>YENİKÖY / KARABURUN - MESCİD-İ SELAM</name>
+  </line>
+  <line>
+    <code>336M</code>
+    <name>ARNAVUTKÖY - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>336Y</code>
+    <name>CEBECİ - YENİKAPI MARMARAY</name>
+  </line>
+  <line>
+    <code>33B</code>
+    <name>GİYİMKENT / BİRLİK MAHALLESİ - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>33ES</code>
+    <name>GİYİMKENT - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>33M</code>
+    <name>GİYİMKENT - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>33TE</code>
+    <name>ESENLER TURGUTREİS - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>33TM</code>
+    <name>GİYİMKENT / TURGUTREİS - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>33Y</code>
+    <name>GİYİMKENT / YÜZYIL MAHALLESİ - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>34A</code>
+    <name>CEVİZLİBAĞ - SÖĞÜTLÜÇEŞME</name>
+  </line>
+  <line>
+    <code>34AS</code>
+    <name>AVCILAR - SÖĞÜTLÜÇEŞME</name>
+  </line>
+  <line>
+    <code>34B</code>
+    <name>BEYLİKDÜZÜ-AVCILAR</name>
+  </line>
+  <line>
+    <code>34BZ</code>
+    <name>BEYLİKDÜZÜ - ZİNCİRLİKUYU</name>
+  </line>
+  <line>
+    <code>34C</code>
+    <name>BEYLİKDÜZÜ-CEVİZLİBAĞ</name>
+  </line>
+  <line>
+    <code>34G</code>
+    <name>BEYLİKDÜZÜ-SÖĞÜTLÜÇEŞME</name>
+  </line>
+  <line>
+    <code>34T</code>
+    <name>AVCILAR -TOPKAPI</name>
+  </line>
+  <line>
+    <code>34U</code>
+    <name>ZİNCİRLİKUYU-UZUNÇAYIR</name>
+  </line>
+  <line>
+    <code>34Z</code>
+    <name>ZİNCİRLİKUYU-SÖĞÜTLÜÇEŞME</name>
+  </line>
+  <line>
+    <code>35C</code>
+    <name>KOCAMUSTAFAPAŞA - TAKSİM</name>
+  </line>
+  <line>
+    <code>35D</code>
+    <name>KOCAMUSTAFAPAŞA - BALAT</name>
+  </line>
+  <line>
+    <code>36AS</code>
+    <name>TAŞOLUK PERON - SEFAKÖY METROBÜS</name>
+  </line>
+  <line>
+    <code>36AY</code>
+    <name>ARNAVUTKÖY - YENİBOSNA METRO</name>
+  </line>
+  <line>
+    <code>36B</code>
+    <name>BOLLUCA / BOĞAZKÖY - CEBECİ</name>
+  </line>
+  <line>
+    <code>36C</code>
+    <name>ARNAVUTKÖY-CEBECI</name>
+  </line>
+  <line>
+    <code>36CB</code>
+    <name>CEBECİ KÖYÜ - HABİPLER</name>
+  </line>
+  <line>
+    <code>36D</code>
+    <name>ARNAVUTKÖY - DELİKLİKAYA</name>
+  </line>
+  <line>
+    <code>36ES</code>
+    <name>SULTANGAZİ PERON - AKSARAY</name>
+  </line>
+  <line>
+    <code>36F</code>
+    <name>CEBECİ - FENERTEPE/OLİMPİYATKÖY METRO</name>
+  </line>
+  <line>
+    <code>36G</code>
+    <name>SULTANGAZİ PERON-BEŞİKTAŞ</name>
+  </line>
+  <line>
+    <code>36HT</code>
+    <name>FATİH MAHALLESİ- HARAÇÇI - CEBECİ</name>
+  </line>
+  <line>
+    <code>36KE</code>
+    <name>YENİ MAHALLE METRO - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>36L</code>
+    <name>MESCİD-İ SELAM - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>36S</code>
+    <name>HABİPLER - YENİMAHALLE METRO</name>
+  </line>
+  <line>
+    <code>36V</code>
+    <name>YAYLA MAHALLESİ - VEZNECİLER</name>
+  </line>
+  <line>
+    <code>36Y</code>
+    <name>TAŞOLUK PERON - MAHMUTBEY METRO</name>
+  </line>
+  <line>
+    <code>36YS</code>
+    <name>YASSIÖREN - ARNAVUTKÖY</name>
+  </line>
+  <line>
+    <code>36Z</code>
+    <name>CEBECİ-ZİNCİRLİKUYU</name>
+  </line>
+  <line>
+    <code>38B</code>
+    <name>SULTANGAZİ PERON-VEZNECİLER</name>
+  </line>
+  <line>
+    <code>38E</code>
+    <name>G.O.P. DEVLET HASTANESİ - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>38H</code>
+    <name>ZÜBEYDE HANIM MAHALLESİ - HABİBLER</name>
+  </line>
+  <line>
+    <code>38Z</code>
+    <name>ZÜBEYDE HANIM MAHALLESİ - AKSARAY</name>
+  </line>
+  <line>
+    <code>3A</code>
+    <name>KADIKÖY - ÜNALAN MAHALLESİ</name>
+  </line>
+  <line>
+    <code>3B</code>
+    <name>KADIKÖY - ÜNALAN MAHALLESİ</name>
+  </line>
+  <line>
+    <code>400A</code>
+    <name>BEYKENT - HARAMİDERE</name>
+  </line>
+  <line>
+    <code>401T</code>
+    <name>AREL ÜNİVERSİTESİ -TEPEKENT - HARAMİDERE</name>
+  </line>
+  <line>
+    <code>40B</code>
+    <name>SARIYER - BEŞİKTAŞ</name>
+  </line>
+  <line>
+    <code>40T</code>
+    <name>İSTİNYE DEREİÇİ - TAKSİM</name>
+  </line>
+  <line>
+    <code>41A</code>
+    <name>AYAZAĞA - 4. LEVENT METRO</name>
+  </line>
+  <line>
+    <code>41AT</code>
+    <name>AYAZAĞA - DAVUTPAŞA Y.T.Ü</name>
+  </line>
+  <line>
+    <code>41C</code>
+    <name>AYAZAĞA - SARIYER</name>
+  </line>
+  <line>
+    <code>41E</code>
+    <name>AYAZAĞA - KABATAŞ</name>
+  </line>
+  <line>
+    <code>41N</code>
+    <name>NİŞANTAŞI ÜNİVERSİTESİ - MASLAK</name>
+  </line>
+  <line>
+    <code>41SF</code>
+    <name>SARIYER - FATİH SULTAN MEHMET</name>
+  </line>
+  <line>
+    <code>41SM</code>
+    <name>YENİ AYAZAĞA MEZARLIĞI- 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>41ST</code>
+    <name>SEYRANTEPE - TOPKAPI</name>
+  </line>
+  <line>
+    <code>429A</code>
+    <name>KIRAÇ - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>42HM</code>
+    <name>BAHÇEKÖY - HACIOSMAN METRO</name>
+  </line>
+  <line>
+    <code>42K</code>
+    <name>SARIYER - KAZIM KARABEKİR</name>
+  </line>
+  <line>
+    <code>42KT</code>
+    <name>SARIYER - KOCATAŞ</name>
+  </line>
+  <line>
+    <code>42T</code>
+    <name>BAHÇEKÖY - BALTALİMANI</name>
+  </line>
+  <line>
+    <code>42Z</code>
+    <name>HACIOSMAN METRO - KAZIM KARABEKİR</name>
+  </line>
+  <line>
+    <code>43R</code>
+    <name>RUMELİ HİSARÜSTÜ - KABATAŞ</name>
+  </line>
+  <line>
+    <code>46Ç</code>
+    <name>KAĞITHANE - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>46KT</code>
+    <name>KUŞTEPE - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>46T</code>
+    <name>ÇAĞLAYAN - TOPKAPI</name>
+  </line>
+  <line>
+    <code>48C</code>
+    <name>KEMERBURGAZ - ÇİFTALAN KÖYÜ</name>
+  </line>
+  <line>
+    <code>48D</code>
+    <name>GÖKTÜRK - HACIOSMAN METRO</name>
+  </line>
+  <line>
+    <code>48G</code>
+    <name>GÖKTÜRK- MESCİDİ SELAM</name>
+  </line>
+  <line>
+    <code>48H</code>
+    <name>HAMİDİYE MAHALLESİ - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>48K</code>
+    <name>KEMERBURGAZ - AĞAÇLI KÖYÜ</name>
+  </line>
+  <line>
+    <code>48KA</code>
+    <name>KEMERBURGAZ - ARNAVUTKÖY</name>
+  </line>
+  <line>
+    <code>48L</code>
+    <name>GÖKTÜRK - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>48M</code>
+    <name>AKPINAR KÖYÜ-ARNAVUTKÖY</name>
+  </line>
+  <line>
+    <code>48N</code>
+    <name>EMNİYETTEPE - TAKSİM</name>
+  </line>
+  <line>
+    <code>48P</code>
+    <name>KEMERBURGAZ - AKPINAR KÖYÜ</name>
+  </line>
+  <line>
+    <code>48S</code>
+    <name>SADABAT EVLERİ - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>48T</code>
+    <name>HAMİDİYE MAHALLESİ - TAKSİM</name>
+  </line>
+  <line>
+    <code>48U</code>
+    <name>KENT ORMAN - KEMERBURGAZ</name>
+  </line>
+  <line>
+    <code>500L</code>
+    <name>CEVİZLİBAĞ - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>500T</code>
+    <name>TUZLA ŞİFA MAHALLESİ - 4. LEVENT METRO</name>
+  </line>
+  <line>
+    <code>50A</code>
+    <name>ALİBEYKÖY - EDİRNEKAPI METROBÜS</name>
+  </line>
+  <line>
+    <code>50AT</code>
+    <name>CEBECİ - GAZİ - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>50B</code>
+    <name>ALİBEYKÖY - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>50C</code>
+    <name>ALİBEYKÖY - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>50D</code>
+    <name>AYAZAĞA - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>50E</code>
+    <name>ALİBEYKÖY - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>50F</code>
+    <name>ALİBEYKÖY - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>50G</code>
+    <name>GÖKTÜRK - TAKSİM</name>
+  </line>
+  <line>
+    <code>50H</code>
+    <name>ALİBEYKÖY - HACIOSMAN METRO</name>
+  </line>
+  <line>
+    <code>50K</code>
+    <name>ALİBEYKÖY - KAZLIÇEŞME</name>
+  </line>
+  <line>
+    <code>50L</code>
+    <name>ALİBEYKÖY - BEŞİKTAŞ</name>
+  </line>
+  <line>
+    <code>50M</code>
+    <name>ALİBEYKÖY-MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>50N</code>
+    <name>ALİBEYKÖY - TAKSİM</name>
+  </line>
+  <line>
+    <code>50P</code>
+    <name>ÇIRÇIR METRO - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>50R</code>
+    <name>ALİBEYKÖY - OTOGAR</name>
+  </line>
+  <line>
+    <code>50S</code>
+    <name>ALİBEYKÖY - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>50T</code>
+    <name>ALİBEYKÖY - TAKSİM</name>
+  </line>
+  <line>
+    <code>50V</code>
+    <name>ALİBEYKÖY - VEZNECİLER</name>
+  </line>
+  <line>
+    <code>50Y</code>
+    <name>ALİBEYKÖY - YENİKAPI</name>
+  </line>
+  <line>
+    <code>50Z</code>
+    <name>ALİBEYKÖY - ZİNCİRLİKUYU</name>
+  </line>
+  <line>
+    <code>522ST</code>
+    <name>SULTANBEYLİ - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>54Ç</code>
+    <name>ÇIKSALIN - TAKSİM</name>
+  </line>
+  <line>
+    <code>54E</code>
+    <name>OKMEYDANI - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>54HŞ</code>
+    <name>HASKÖY - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>54HT</code>
+    <name>HASKÖY - TAKSİM</name>
+  </line>
+  <line>
+    <code>54K</code>
+    <name>HASKÖY - KULAKSIZ - TAKSİM</name>
+  </line>
+  <line>
+    <code>54KT</code>
+    <name>KAPTANPAŞA - DOLAPDERE / TAKSİM</name>
+  </line>
+  <line>
+    <code>54ÖR</code>
+    <name>ÖRNEKTEPE - TAKSİM</name>
+  </line>
+  <line>
+    <code>54P</code>
+    <name>PİYALEPAŞA MAHALLESİ - TAKSİM</name>
+  </line>
+  <line>
+    <code>54T</code>
+    <name>SADABAT EVLERİ / TALATPAŞA - TAKSİM</name>
+  </line>
+  <line>
+    <code>54TE</code>
+    <name>SADABAT EVLERİ / TALATPAŞA - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>559C</code>
+    <name>RUMELİ HİSARÜSTÜ - TAKSİM</name>
+  </line>
+  <line>
+    <code>55ET</code>
+    <name>GAZİOSMANPAŞA - BEŞİKTAŞ</name>
+  </line>
+  <line>
+    <code>55G</code>
+    <name>GAZİOSMANPAŞA - BEŞİKTAŞ</name>
+  </line>
+  <line>
+    <code>55T</code>
+    <name>GAZİOSMANPAŞA - TAKSİM</name>
+  </line>
+  <line>
+    <code>55Y</code>
+    <name>KAĞITHANE GARAJI - YENİBOSNA METRO</name>
+  </line>
+  <line>
+    <code>57UL</code>
+    <name>BEŞİKTAŞ - KURUÇEŞMEÜSTÜ</name>
+  </line>
+  <line>
+    <code>58A</code>
+    <name>POLİGON MAHALLESİ- KABATAŞ</name>
+  </line>
+  <line>
+    <code>58N</code>
+    <name>FATİH SULTAN MEHMET - KABATAŞ</name>
+  </line>
+  <line>
+    <code>58S</code>
+    <name>LEVAZIM MAHALLESİ - KABATAŞ</name>
+  </line>
+  <line>
+    <code>58UL</code>
+    <name>ULUS MAHALLESİ - KABATAŞ</name>
+  </line>
+  <line>
+    <code>59A</code>
+    <name>İSTİNYE DEREİÇİ - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>59CH</code>
+    <name>ARNAVUTKÖY - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>59HS</code>
+    <name>HACIOSMAN METRO - SARITEPE KAMPÜSÜ</name>
+  </line>
+  <line>
+    <code>59K</code>
+    <name>KARAYOLLARI / ETİLER - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>59N</code>
+    <name>FATİH SULTAN MEHMET - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>59R</code>
+    <name>RUMELİ HİSARÜSTÜ - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>59RH</code>
+    <name>RUMELİ HİSARÜSTÜ - HACIOSMAN METRO</name>
+  </line>
+  <line>
+    <code>59RK</code>
+    <name>RUMELİ HİSARÜSTÜ - SARITEPE KAMPÜSÜ</name>
+  </line>
+  <line>
+    <code>59RS</code>
+    <name>SARIYER - RUMELİ HİSARÜSTÜ</name>
+  </line>
+  <line>
+    <code>62G</code>
+    <name>EMNİYETTEPE /  HAMİDİYE - BEŞİKTAŞ</name>
+  </line>
+  <line>
+    <code>62H</code>
+    <name>EMNİYETTEPE - HACIOSMAN METRO</name>
+  </line>
+  <line>
+    <code>64Ç</code>
+    <name>EMNİYETTEPE/ÇELİKTEPE-ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>65A</code>
+    <name>SEYRANTEPE - KAĞITHANE GARAJI</name>
+  </line>
+  <line>
+    <code>65G</code>
+    <name>KAĞITHANE / GÜLTEPE - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>66Z</code>
+    <name>ZİNCİRLİDERE - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>70D</code>
+    <name>KURTULUŞ / DOLAPDERE - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>70FE</code>
+    <name>FERİKÖY - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>70FY</code>
+    <name>FERİKÖY - YENİKAPI</name>
+  </line>
+  <line>
+    <code>70KE</code>
+    <name>KURTULUŞ - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>70KY</code>
+    <name>KURTULUŞ - YENİKAPI</name>
+  </line>
+  <line>
+    <code>71T</code>
+    <name>ATAKÖY - TAKSİM</name>
+  </line>
+  <line>
+    <code>72T</code>
+    <name>YEŞİLKÖY - TAKSİM</name>
+  </line>
+  <line>
+    <code>72YT</code>
+    <name>CERRAHPAŞA TIP FAK. MURAT DİLMENER ACİL DURUM HASTANESİ-YENİKAPI</name>
+  </line>
+  <line>
+    <code>73B</code>
+    <name>FLORYA - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>73F</code>
+    <name>FLORYA - TAKSİM</name>
+  </line>
+  <line>
+    <code>73H</code>
+    <name>CERRAHPAŞA MURAT DİLMENER HASTANESİ - YENİBOSNA METRO</name>
+  </line>
+  <line>
+    <code>73Y</code>
+    <name>KUYUMCUKENT - YEŞİLKÖY / AKVARYUM</name>
+  </line>
+  <line>
+    <code>74A</code>
+    <name>GAYRETTEPE - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>76A</code>
+    <name>KİPTAŞ VADİTEPE - YENİKAPI</name>
+  </line>
+  <line>
+    <code>76B</code>
+    <name>AVCILAR CİHANGİR MAHALLESİ - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>76BA</code>
+    <name>BÜYÜKÇEKMECE - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>76D</code>
+    <name>BAHÇEŞEHİR / ESENKENT - TAKSİM</name>
+  </line>
+  <line>
+    <code>76G</code>
+    <name>GÜRPINAR - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>76GM</code>
+    <name>GÜRPINAR-BEYKENT METROBÜS</name>
+  </line>
+  <line>
+    <code>76O</code>
+    <name>AVCILAR CİHANGİR MAHALLESİ - OTOGAR</name>
+  </line>
+  <line>
+    <code>76TM</code>
+    <name>TEPEKENT - HARAMİDERE</name>
+  </line>
+  <line>
+    <code>76V</code>
+    <name>KİPTAŞ VADİTEPE - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>77A</code>
+    <name>VEZNECİLER-ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>77Ç</code>
+    <name>ÇIKSALIN - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>78B</code>
+    <name>FENERTEPE PERON/BAŞAKŞEHİR - YENİBOSNA METRO</name>
+  </line>
+  <line>
+    <code>78C</code>
+    <name>YUNUS EMRE MAHALLESİ - FENERTEPE</name>
+  </line>
+  <line>
+    <code>78E</code>
+    <name>FENERTEPE PERON/BAŞAKŞEHİR - KAYABAŞI KİPTAŞ</name>
+  </line>
+  <line>
+    <code>78F</code>
+    <name>FENERTEPE - BAŞAKŞEHİR - METROKENT</name>
+  </line>
+  <line>
+    <code>78G</code>
+    <name>FENERTEPE PERON/BAŞAKŞEHİR - KAYAŞEHİR</name>
+  </line>
+  <line>
+    <code>78H</code>
+    <name>FENERTEPE PERON/BAŞAKŞEHİR - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>78K</code>
+    <name>FENERTEPE PERON/BAŞAKŞEHIR-K.S.S. HASTANESİ</name>
+  </line>
+  <line>
+    <code>78Ş</code>
+    <name>FENERTEPE PERON/BAŞAKŞEHİR - ŞAHİNTEPE İGTOT</name>
+  </line>
+  <line>
+    <code>78ZB</code>
+    <name>FENERTEPE PERON/BAŞAKŞEHİR - ZEYTİNBURNU</name>
+  </line>
+  <line>
+    <code>79B</code>
+    <name>KAYAŞEHİR - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>79C</code>
+    <name>KAYAŞEHİR - CEBECİ MAHALLESİ</name>
+  </line>
+  <line>
+    <code>79E</code>
+    <name>KAYABAŞI KİPTAŞ / KAYAŞEHİR - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>79F</code>
+    <name>KAYAŞEHİR - YENİBOSNA METRO</name>
+  </line>
+  <line>
+    <code>79FY</code>
+    <name>FENERTEPE-YENİBOSNA METRO</name>
+  </line>
+  <line>
+    <code>79G</code>
+    <name>KAYAŞEHİR - ZEYTİNBURNU</name>
+  </line>
+  <line>
+    <code>79GE</code>
+    <name>GÜVERCİNTEPE/FENERTEPE-EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>79K</code>
+    <name>KAYAŞEHİR - YENİBOSNA METRO</name>
+  </line>
+  <line>
+    <code>79KM</code>
+    <name>KAYAŞEHİR - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>79KT</code>
+    <name>KAYABAŞI KİPTAŞ - TEKSTİLKENT METRO</name>
+  </line>
+  <line>
+    <code>79Ş</code>
+    <name>ŞAHİNTEPE İGTOT - İKİTELLİ OSB</name>
+  </line>
+  <line>
+    <code>79T</code>
+    <name>KAYABAŞI KİPTAŞ - TAKSİM</name>
+  </line>
+  <line>
+    <code>79Y</code>
+    <name>KAYABAŞI KİPTAŞ / KAYAŞEHİR - YENİBOSNA METRO</name>
+  </line>
+  <line>
+    <code>80T</code>
+    <name>KAZLIÇEŞME - TAKSİM</name>
+  </line>
+  <line>
+    <code>85C</code>
+    <name>DAVUTPAŞA YTÜ - KAZLIÇEŞME</name>
+  </line>
+  <line>
+    <code>86V</code>
+    <name>EYÜPSULTAN - VEZNECİLER</name>
+  </line>
+  <line>
+    <code>88A</code>
+    <name>SULTANGAZİ PERON-YENİKAPI</name>
+  </line>
+  <line>
+    <code>89A</code>
+    <name>K.S.S. HASTANESİ - ZEYTİNBURNU</name>
+  </line>
+  <line>
+    <code>89B</code>
+    <name>KÜÇÜKÇEKMECE - AKSARAY</name>
+  </line>
+  <line>
+    <code>89C</code>
+    <name>İETT İKİTELLİ GARAJI-TAKSİM</name>
+  </line>
+  <line>
+    <code>89F</code>
+    <name>KÜÇÜKÇEKMECE-İSTOÇ</name>
+  </line>
+  <line>
+    <code>89K</code>
+    <name>K.S.S. HASTANESİ - AKSARAY</name>
+  </line>
+  <line>
+    <code>89M</code>
+    <name>MEHMET AKİF MAHALLESİ - ZEYTİNBURNU</name>
+  </line>
+  <line>
+    <code>89S</code>
+    <name>SÖĞÜTLÜÇEŞME - ZEYTİNBURNU</name>
+  </line>
+  <line>
+    <code>89T</code>
+    <name>K.S.S. HASTANESİ/ATAKENT-TAKSİM</name>
+  </line>
+  <line>
+    <code>89YB</code>
+    <name>K.S.S. HASTANESİ/ATAKENT - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>8A</code>
+    <name>BATI ATAŞEHİR / FİKİRTEPE - KADIKÖY</name>
+  </line>
+  <line>
+    <code>8E</code>
+    <name>ESENEVLER - KADIKÖY</name>
+  </line>
+  <line>
+    <code>8K</code>
+    <name>TEPEÜSTÜ - ATAŞEHİR / KOZYATAĞI METRO</name>
+  </line>
+  <line>
+    <code>8Y</code>
+    <name>SOYAK YENİŞEHİR - YENİSAHRA METRO</name>
+  </line>
+  <line>
+    <code>90B</code>
+    <name>DRAMAN - AKSARAY</name>
+  </line>
+  <line>
+    <code>91E</code>
+    <name>GÖZTEPE MAHALLESİ - AKSARAY</name>
+  </line>
+  <line>
+    <code>91M</code>
+    <name>FATİH MAHALLESİ YANYOL- MECİDİYEKÖY METROBÜS</name>
+  </line>
+  <line>
+    <code>92B</code>
+    <name>YENİ MAHALLE METRO / ATEŞTUĞLA - AKSARAY</name>
+  </line>
+  <line>
+    <code>92C</code>
+    <name>HAZNEDAR - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>92K</code>
+    <name>YENİ MAHALLE METRO / KİRAZLI - AKSARAY</name>
+  </line>
+  <line>
+    <code>92M</code>
+    <name>BAĞCILAR DEVLET HASTANESİ - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>92Ş</code>
+    <name>YENİ MAHALLE METRO - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>92T</code>
+    <name>BAĞCILAR DEVLET HASTANESİ - TAKSİM</name>
+  </line>
+  <line>
+    <code>93M</code>
+    <name>ZEYTİNBURNU - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>93T</code>
+    <name>ZEYTİNBURNU - TAKSİM</name>
+  </line>
+  <line>
+    <code>97A</code>
+    <name>BASINSİTESİ - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>97BT</code>
+    <name>KOCASİNAN İTFAİYE-TAKSİM</name>
+  </line>
+  <line>
+    <code>97E</code>
+    <name>MAHMUTBEY - KAZLIÇEŞME</name>
+  </line>
+  <line>
+    <code>97G</code>
+    <name>YENİ MAHALLE METRO - AKSARAY</name>
+  </line>
+  <line>
+    <code>97GE</code>
+    <name>15 TEMMUZ MAHALLESİ - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>97KZ</code>
+    <name>KOCASİNAN - ZEYTİNBURNU</name>
+  </line>
+  <line>
+    <code>97M</code>
+    <name>15 TEMMUZ MAHALLESİ - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>97T</code>
+    <name>BASINSİTESİ - TAKSİM</name>
+  </line>
+  <line>
+    <code>98A</code>
+    <name>GÖZTEPE MAHALLESİ - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>98AB</code>
+    <name>ATAKENT/HALKALI - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>98B</code>
+    <name>KUYUMCUKENT - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>98D</code>
+    <name>YENİ MAHALLE METRO - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>98E</code>
+    <name>GÜNEŞLİ BASIN TESİSLERİ - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>98G</code>
+    <name>GİYİMKENT / TURGUTREİS - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>98H</code>
+    <name>METROKENT - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>98KM</code>
+    <name>FENERTEPE - SEFAKÖY METROBÜS</name>
+  </line>
+  <line>
+    <code>98M</code>
+    <name>İSTOÇ - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>98MB</code>
+    <name>MEHMET AKİF MAHALLESİ - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>98S</code>
+    <name>K.S.S. HASTANESİ - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>98T</code>
+    <name>K.S.S. HASTANESİ/ATAKENT-BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>98TB</code>
+    <name>FATİH MAHALLESİ - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>98Y</code>
+    <name>GİYİMKENT / YÜZYIL MAHALLESİ - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>99A</code>
+    <name>GAZİOSMANPAŞA - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>9A</code>
+    <name>ATAKENT - ÜMRANİYE METRO</name>
+  </line>
+  <line>
+    <code>9ÇN</code>
+    <name>ÇEKMEKÖY - NİŞANTEPE / ÖZYEĞİN ÜNİVERSİTESİ</name>
+  </line>
+  <line>
+    <code>9H</code>
+    <name>CUMHURİYETKÖY / HÜSEYİNLİ - ÇEKMEKÖY</name>
+  </line>
+  <line>
+    <code>9KS</code>
+    <name>KASABA EVLERİ/ ÖMERLİ - NECİP FAZIL METRO</name>
+  </line>
+  <line>
+    <code>9S</code>
+    <name>YEŞILTEPE/ÇEKMEKÖY METRO-ATATÜRK MAH.</name>
+  </line>
+  <line>
+    <code>9T</code>
+    <name>ŞAHİNBEY - ALTUNİZADE METROBÜS</name>
+  </line>
+  <line>
+    <code>AND1A</code>
+    <name>ANADOLU1 / ANADOLU</name>
+  </line>
+  <line>
+    <code>AND1Ş</code>
+    <name>ANADOLU1 DEPAR / ŞAHİNKAYA</name>
+  </line>
+  <line>
+    <code>AND2K</code>
+    <name>ANADOLU2 DEPAR/ KURTKÖY</name>
+  </line>
+  <line>
+    <code>AND2S</code>
+    <name>ANADOLU2 DEPAR / SARIGAZİ</name>
+  </line>
+  <line>
+    <code>AND2Y</code>
+    <name>ANADOLU2 DEPAR / YUNUS</name>
+  </line>
+  <line>
+    <code>AVR1</code>
+    <name>AVRUPA 1 DEPAR / İKİTELLİ</name>
+  </line>
+  <line>
+    <code>AVR2</code>
+    <name>AVRUPA 2 DEPAR / TOPKAPI</name>
+  </line>
+  <line>
+    <code>AVR3</code>
+    <name>AVRUPA3 DEPAR</name>
+  </line>
+  <line>
+    <code>AVR3K</code>
+    <name>AVRUPA3 DEPAR / KAĞITHANE</name>
+  </line>
+  <line>
+    <code>BA-1</code>
+    <name>ÇARŞI-TEPEKÖY-KADIYORAN</name>
+  </line>
+  <line>
+    <code>BA-2</code>
+    <name>ÇARŞI-LUNAPARK</name>
+  </line>
+  <line>
+    <code>BA-4</code>
+    <name>ÇINAR-KUMSAL-MADEN</name>
+  </line>
+  <line>
+    <code>BA-5</code>
+    <name>ÇARŞI-NİZAM</name>
+  </line>
+  <line>
+    <code>BA-7</code>
+    <name>BÜYÜKADA TAKSİ</name>
+  </line>
+  <line>
+    <code>BM4</code>
+    <name>KAVAKLI - HARAMİDERE METROBÜS</name>
+  </line>
+  <line>
+    <code>BM5</code>
+    <name>SAHİL MAH./ KAVAKLI - HARAMİDERE</name>
+  </line>
+  <line>
+    <code>BM6</code>
+    <name>BEYLİKDÜZÜ - HARAMİDERE</name>
+  </line>
+  <line>
+    <code>BM7</code>
+    <name>HARAMİDERE - YAKUPLU - BEYLİKDÜZÜ</name>
+  </line>
+  <line>
+    <code>BM8</code>
+    <name>GÜRPINAR- A.KAHVECİ MAH. - CUMHURİYET MAH. METROBÜS</name>
+  </line>
+  <line>
+    <code>BN1</code>
+    <name>HALKALI - EMİNÖNÜ</name>
+  </line>
+  <line>
+    <code>BU-1</code>
+    <name>ÇARŞI-KALPAZANKAYA</name>
+  </line>
+  <line>
+    <code>BU-7</code>
+    <name>BURGAZADA TAKSİ</name>
+  </line>
+  <line>
+    <code>ÇM41</code>
+    <name>ÇEKMEKÖY-NECİP FAZIL METRO</name>
+  </line>
+  <line>
+    <code>ÇM42</code>
+    <name>ŞAHİNBEY - ÇEKMEKÖY METRO/ EMEK MAH.</name>
+  </line>
+  <line>
+    <code>ÇM43</code>
+    <name>ATATÜRK MAHALLESİ-NECİP FAZIL METRO</name>
+  </line>
+  <line>
+    <code>ÇM44</code>
+    <name>ÖZYEĞİN ÜNİ./NİŞANTEPE-ÇEKMEKÖY METRO/PROF. DR. FERİHA ÖZ HAST.</name>
+  </line>
+  <line>
+    <code>D2</code>
+    <name>BEŞİKTAŞ - BELGRAD ORMANI</name>
+  </line>
+  <line>
+    <code>DS1</code>
+    <name>DUDULLU ORGANİZE SANAYİ BÖLGESİ - DUDULLU METRO</name>
+  </line>
+  <line>
+    <code>DS2</code>
+    <name>DUDULLU ORGANİZE SANAYİ BÖLGESİ - DUDULLU METRO</name>
+  </line>
+  <line>
+    <code>DT1</code>
+    <name>ORTAKÖY - TAKSİM</name>
+  </line>
+  <line>
+    <code>DT2</code>
+    <name>ORTAKÖY - TAKSİM</name>
+  </line>
+  <line>
+    <code>E-10</code>
+    <name>SABİHA GÖKÇEN HAVALİMANI / KURTKÖY - KADIKÖY</name>
+  </line>
+  <line>
+    <code>E-3</code>
+    <name>SABİHA GÖKÇEN HAVALİMANI - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>E-56</code>
+    <name>ISPARTAKULE - TAKSİM</name>
+  </line>
+  <line>
+    <code>E-57</code>
+    <name>ESENKENT BAHÇEŞEHİR - BAKIRKÖY</name>
+  </line>
+  <line>
+    <code>E-58</code>
+    <name>ESENKENT BAHÇEŞEHİR - MECİDİYEKÖY</name>
+  </line>
+  <line>
+    <code>E-59</code>
+    <name>BOĞAZKÖY / BAHÇEŞEHİR - TAKSİM</name>
+  </line>
+  <line>
+    <code>EL2</code>
+    <name>EMİRGAN - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>EM1</code>
+    <name>EMİNÖNÜ - KULAKSIZ</name>
+  </line>
+  <line>
+    <code>EM2</code>
+    <name>EMİNÖNÜ - KULAKSIZ</name>
+  </line>
+  <line>
+    <code>ER1</code>
+    <name>KADIKÖY - ERENKÖY</name>
+  </line>
+  <line>
+    <code>ER2</code>
+    <name>KADIKÖY - ERENKÖY</name>
+  </line>
+  <line>
+    <code>ES1</code>
+    <name>ESENYURT BELEDİYESİ - BEYLİKDÜZÜ DEVLET HASTANESİ/BEYKENT</name>
+  </line>
+  <line>
+    <code>ES2</code>
+    <name>TÜYAP / KIRAÇ - AKÇABURGAZ</name>
+  </line>
+  <line>
+    <code>ES3</code>
+    <name>ESENYURT DEVLET HASTANESİ - HARAMİDERE</name>
+  </line>
+  <line>
+    <code>ES4</code>
+    <name>ESENYURT KİPTAŞ 4. ETAP-HARAMİDERE</name>
+  </line>
+  <line>
+    <code>F2</code>
+    <name>BEYOĞLU-KARAKÖY TÜNEL</name>
+  </line>
+  <line>
+    <code>FB1</code>
+    <name>KADIKÖY - FENERBAHÇE</name>
+  </line>
+  <line>
+    <code>FB2</code>
+    <name>KADIKÖY - FENERBAHÇE</name>
+  </line>
+  <line>
+    <code>GZ1</code>
+    <name>KADIKÖY - GÖZTEPE</name>
+  </line>
+  <line>
+    <code>H-1</code>
+    <name>MAHMUTBEY METRO - İSTANBUL HAVALİMANI</name>
+  </line>
+  <line>
+    <code>H-2</code>
+    <name>MECİDİYEKÖY - İSTANBUL HAVALİMANI</name>
+  </line>
+  <line>
+    <code>H-3</code>
+    <name>HALKALI MARMARAY - İSTANBUL HAVALİMANI</name>
+  </line>
+  <line>
+    <code>H-6</code>
+    <name>YUNUS EMRE MAHALLESİ-İSTANBUL HAVALİMANI</name>
+  </line>
+  <line>
+    <code>H-8</code>
+    <name>HACIOSMAN METRO-İSTANBUL HAVALİMANI</name>
+  </line>
+  <line>
+    <code>HA-1</code>
+    <name>ÇARŞI-AKÇAKOCA-İTFAİYE</name>
+  </line>
+  <line>
+    <code>HA-2</code>
+    <name>ÇARŞI-ÇAM LİMANI</name>
+  </line>
+  <line>
+    <code>HA-3</code>
+    <name>ÇARŞI-DEĞİRMENBURNU-KÜÇÜKTUR</name>
+  </line>
+  <line>
+    <code>HA-7</code>
+    <name>HEYBELİADA TAKSİ</name>
+  </line>
+  <line>
+    <code>HM1</code>
+    <name>HACIOSMAN METRO - KOCATAŞ</name>
+  </line>
+  <line>
+    <code>HM2</code>
+    <name>KONAKLAR MAHALLESİ - 4.LEVENT METRO</name>
+  </line>
+  <line>
+    <code>HM3</code>
+    <name>HÜRRİYET MAHALLESİ - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>HM4</code>
+    <name>LEVENT BASIN SİTESİ - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>HS2</code>
+    <name>AVCILAR METROBÜS - ŞEHİR HASTANESİ</name>
+  </line>
+  <line>
+    <code>HS3</code>
+    <name>SEFAKÖY METROBÜS-ŞEHİR HASTANESİ</name>
+  </line>
+  <line>
+    <code>HT1</code>
+    <name>K.S.S. HASTANESİ - ÜÇYÜZLÜ METRO</name>
+  </line>
+  <line>
+    <code>HT10</code>
+    <name>BATIŞEHİR - YENİBOSNA METRO</name>
+  </line>
+  <line>
+    <code>HT11</code>
+    <name>GİYİMKENT - KUYUMCUKENT</name>
+  </line>
+  <line>
+    <code>HT12</code>
+    <name>GÜNEŞLİ BASIN TESİSLERİ - YENİBOSNA METRO</name>
+  </line>
+  <line>
+    <code>HT13</code>
+    <name>YENİ MAHALLE METRO - ZEYTİNBURNU</name>
+  </line>
+  <line>
+    <code>HT18</code>
+    <name>HADIMKÖY/İ.Ü. CERRAHPAŞA KAMPÜSÜ - TÜYAP</name>
+  </line>
+  <line>
+    <code>HT20</code>
+    <name>ŞAHİNTEPE İGTOT - YENİBOSNA METRO</name>
+  </line>
+  <line>
+    <code>HT29</code>
+    <name>KIRAÇ YOLU - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>HT48</code>
+    <name>AREL ÜNİVERSİTESİ / TEPEKENT - AVCILAR METROBÜS</name>
+  </line>
+  <line>
+    <code>HT5</code>
+    <name>KOCATEPE METRO-NUR SİTESİ</name>
+  </line>
+  <line>
+    <code>HT6</code>
+    <name>BATIŞEHİR-KOCATEPE METRO</name>
+  </line>
+  <line>
+    <code>K1</code>
+    <name>KAĞITHANE-SEYRANTEPE HAMİDİYE ETFAL HASTANESİ</name>
+  </line>
+  <line>
+    <code>K2</code>
+    <name>KAĞITHANE-SEYRANTEPE HAMİDİYE ETFAL HASTANESİ</name>
+  </line>
+  <line>
+    <code>K3</code>
+    <name>KAĞITHANE GARAJI-VADİ İSTANBUL</name>
+  </line>
+  <line>
+    <code>K4</code>
+    <name>KAĞITHANE-ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>KA-1</code>
+    <name>ÇARŞI-NARÇİÇEĞİ</name>
+  </line>
+  <line>
+    <code>KA-2</code>
+    <name>TEKİNAY-PLAJLAR-BÜYÜK TUR</name>
+  </line>
+  <line>
+    <code>KA-7</code>
+    <name>KINALIADA TAKSİ</name>
+  </line>
+  <line>
+    <code>KÇ2</code>
+    <name>K.S.S.HASTANESİ - YENİBOSNA METRO</name>
+  </line>
+  <line>
+    <code>KM10</code>
+    <name>AYDINLI TOKİ / İÇMELER - PENDİK METRO/YHT - KARTAL</name>
+  </line>
+  <line>
+    <code>KM11</code>
+    <name>AYDINLI TOKİ / A.YESEVİ - PENDİK KÖPRÜSÜ</name>
+  </line>
+  <line>
+    <code>KM12</code>
+    <name>TUZLA DENİZ HARP OKULU - KARTAL METRO</name>
+  </line>
+  <line>
+    <code>KM13</code>
+    <name>TUZLA - PENDİK METRO/ YHT / PENDİK</name>
+  </line>
+  <line>
+    <code>KM14</code>
+    <name>AHMET YESEVİ - TAVŞANTEPE METRO/ YENİŞEHİR</name>
+  </line>
+  <line>
+    <code>KM15</code>
+    <name>YENİŞEHİR-PENDİK METRO</name>
+  </line>
+  <line>
+    <code>KM17</code>
+    <name>TUZLA EMLAK KONUTLARI-TAVŞANTEPE METRO</name>
+  </line>
+  <line>
+    <code>KM18</code>
+    <name>SABANCI ÜNİ./MEDENİYET ÜNİ. - KURTKÖY METRO</name>
+  </line>
+  <line>
+    <code>KM2</code>
+    <name>KAVAKPINAR-TAVŞANTEPE METRO</name>
+  </line>
+  <line>
+    <code>KM21</code>
+    <name>HİLAL KONUTLARI - KARTAL METRO / CEVİZLİ</name>
+  </line>
+  <line>
+    <code>KM23</code>
+    <name>KAVAKPINAR / MARMARA HST. - KARTAL METRO / CEVİZLİ</name>
+  </line>
+  <line>
+    <code>KM24</code>
+    <name>KAVAKPINAR - PENDİK METRO/YHT/PENDİK</name>
+  </line>
+  <line>
+    <code>KM25</code>
+    <name>YENİŞEHİR - KARTAL METRO / CEVİZLİ</name>
+  </line>
+  <line>
+    <code>KM26</code>
+    <name>ÇAMLIK MAHALLESİ - PENDİK METRO/ YHT / PENDİK</name>
+  </line>
+  <line>
+    <code>KM27</code>
+    <name>YENİŞEHİR - PENDİK METRO/ YHT / PENDİK</name>
+  </line>
+  <line>
+    <code>KM28</code>
+    <name>OKAN ÜNİVERSİTESİ - KURTKÖY  METRO</name>
+  </line>
+  <line>
+    <code>KM29</code>
+    <name>YENİŞEHİR/MARMARA Ü. HAST. - KARTAL METRO/CEVİZLİ</name>
+  </line>
+  <line>
+    <code>KM3</code>
+    <name>UĞUR MUMCU-YAKACIK METRO/ PENDİK</name>
+  </line>
+  <line>
+    <code>KM30</code>
+    <name>KARTAL / ATALAR - ESENKENT METRO</name>
+  </line>
+  <line>
+    <code>KM31</code>
+    <name>UĞUR MUMCU - KARTAL</name>
+  </line>
+  <line>
+    <code>KM32</code>
+    <name>KURFALI - KARTAL METRO / KARTAL</name>
+  </line>
+  <line>
+    <code>KM33</code>
+    <name>PENDİK SAHİL/ YHT - GÜLSUYU METRO</name>
+  </line>
+  <line>
+    <code>KM34</code>
+    <name>KARTAL METRO-TOPSELVİ/GÜLSUYU METRO</name>
+  </line>
+  <line>
+    <code>KM35</code>
+    <name>UĞUR MUMCU-CEVİZLİ</name>
+  </line>
+  <line>
+    <code>KM36</code>
+    <name>KURFALI MAHALLESİ-CEVİZLİ</name>
+  </line>
+  <line>
+    <code>KM37</code>
+    <name>HİLAL KONUTLARI-PENDİK METRO/YHT/PENDİK</name>
+  </line>
+  <line>
+    <code>KM41</code>
+    <name>MARMARA ÜNİVERSİTESİ-KÜÇÜKYALI METRO-BAŞIBÜYÜK SAĞLIK KAMPÜSÜ</name>
+  </line>
+  <line>
+    <code>KM42</code>
+    <name>BAŞIBÜYÜK - SÜREYYAPAŞA HASTANESİ/ MALTEPE</name>
+  </line>
+  <line>
+    <code>KM43</code>
+    <name>ZÜMRÜTEVLER - MALTEPE METRO</name>
+  </line>
+  <line>
+    <code>KM44</code>
+    <name>MALTEPE ÜNİVERSİTESİ - SİTELER - MALTEPE</name>
+  </line>
+  <line>
+    <code>KM45</code>
+    <name>MARMARA ÜNİVERSİTESİ / KÜÇÜKYALI METRO - MİMAR SİNAN ÖĞRENCİ YURDU</name>
+  </line>
+  <line>
+    <code>KM46</code>
+    <name>BATI ATAŞEHİR - KOZYATAĞI METRO</name>
+  </line>
+  <line>
+    <code>KM47</code>
+    <name>GÜLENSU MAHALLESİ-HUZUREVİ METRO</name>
+  </line>
+  <line>
+    <code>KM48</code>
+    <name>ESENKENT-HUZUREVİ METRO</name>
+  </line>
+  <line>
+    <code>KM60</code>
+    <name>VEYSEL KARANİ - KARTAL METRO / CEVİZLİ</name>
+  </line>
+  <line>
+    <code>KM61</code>
+    <name>PAŞAKÖY / SAMANDIRA - KARTAL</name>
+  </line>
+  <line>
+    <code>KM70</code>
+    <name>SULTANBEYLİ/PETROL YOLU CADDESI - KARTAL METRO / CEVİZLİ</name>
+  </line>
+  <line>
+    <code>KM71</code>
+    <name>YENİDOĞAN PERONLAR/ ADİL MAH. - CEVİZLİ</name>
+  </line>
+  <line>
+    <code>KM72</code>
+    <name>PENDİK/PENDİK METRO/ YHT - SULTANBEYLİ DEVLET HAST.</name>
+  </line>
+  <line>
+    <code>M5</code>
+    <name>SAMANDIRA METRO - ÜSKÜDAR</name>
+  </line>
+  <line>
+    <code>M7</code>
+    <name>NURTEPE - MECIDIYEKÖY</name>
+  </line>
+  <line>
+    <code>MK11</code>
+    <name>OLİMPİYATKÖY METRO - KAYAŞEHİR - GÜVERCİNTEPE</name>
+  </line>
+  <line>
+    <code>MK12</code>
+    <name>OLİMPİYATKÖY METRO - GÜVERCİNTEPE - KAYAŞEHİR</name>
+  </line>
+  <line>
+    <code>MK13</code>
+    <name>ŞAHİNTEPE İGTOT - OLİMPİYATKÖY METRO</name>
+  </line>
+  <line>
+    <code>MK14</code>
+    <name>KİPTAŞ VADİTEPE - OLİMPİYATKÖY METRO</name>
+  </line>
+  <line>
+    <code>MK15</code>
+    <name>BOĞAZKÖY / BAHÇEŞEHİR - OLİMPİYATKÖY METRO</name>
+  </line>
+  <line>
+    <code>MK16</code>
+    <name>OLİMPİYATKÖY METRO - K.ÇEKMECE METROBÜS</name>
+  </line>
+  <line>
+    <code>MK19</code>
+    <name>AYAZMA SİTELERİ-ARENAPARK</name>
+  </line>
+  <line>
+    <code>MK22</code>
+    <name>TAŞOLUK PERON - ŞEHİR HASTANESİ</name>
+  </line>
+  <line>
+    <code>MK31</code>
+    <name>K.S.S HASTANESİ-BAŞAKŞEHİR/FENERTEPE PERON</name>
+  </line>
+  <line>
+    <code>MK42</code>
+    <name>15 TEMMUZ MAHALLESİ - KİRAZLI METRO</name>
+  </line>
+  <line>
+    <code>MK49</code>
+    <name>SULTANGAZİ PERON - KAZIM KARABEKİR METRO</name>
+  </line>
+  <line>
+    <code>MK50</code>
+    <name>SULTANGAZİ PERON-KAZIM KARABEKİR METRO</name>
+  </line>
+  <line>
+    <code>MK53</code>
+    <name>SULTANGAZİ PERON-TEKSTİLKENT METRO</name>
+  </line>
+  <line>
+    <code>MK97</code>
+    <name>ÇAVUŞPAŞA-ZEYTİNBURNU</name>
+  </line>
+  <line>
+    <code>MR11</code>
+    <name>KAZLIÇEŞME - TOPKAPI</name>
+  </line>
+  <line>
+    <code>MR20</code>
+    <name>YENİBOSNA METRO - KAZLIÇEŞME</name>
+  </line>
+  <line>
+    <code>MR40</code>
+    <name>K.S.S. HASTANESİ - ATAKENT - HALKALI MARMARAY</name>
+  </line>
+  <line>
+    <code>MR42</code>
+    <name>HALKALI MARMARAY / İNÖNÜ MAH. - SEFAKÖY METROBÜS</name>
+  </line>
+  <line>
+    <code>MR50</code>
+    <name>HALKALI MARMARAY - ŞEHİR HASTANESİ</name>
+  </line>
+  <line>
+    <code>MR51</code>
+    <name>İ.Ü. CERRAHPAŞA KAMPÜSÜ/BAHÇEŞEHİR - HALKALI MARMARAY</name>
+  </line>
+  <line>
+    <code>MR52</code>
+    <name>SÖĞÜTLÜÇEŞME - HALKALI MARMARAY - ŞEHİR HASTANESİ</name>
+  </line>
+  <line>
+    <code>MR54</code>
+    <name>IGTOT-HALKALI MARMARAY</name>
+  </line>
+  <line>
+    <code>MR60</code>
+    <name>PENDİK/PENDİK YHT-SABİHA GÖKÇEN HAVALİMANI</name>
+  </line>
+  <line>
+    <code>MR61</code>
+    <name>GÜZELYALI-TUZLA DEVLET HASTANESİ</name>
+  </line>
+  <line>
+    <code>MR9</code>
+    <name>ATATÜRK MAH. / ÇAMLIK - AYRILIK ÇEŞMESİ</name>
+  </line>
+  <line>
+    <code>PD1</code>
+    <name>YENİKAPI - BEYAZIT</name>
+  </line>
+  <line>
+    <code>SG-1</code>
+    <name>KADIKÖY - SABİHA GÖKÇEN HAVALİMANI</name>
+  </line>
+  <line>
+    <code>SG-2</code>
+    <name>TAKSİM - SABİHA GÖKÇEN HAVALİMANI</name>
+  </line>
+  <line>
+    <code>SM1</code>
+    <name>SULTANBEYLI - SAMANDIRA MERKEZ METRO</name>
+  </line>
+  <line>
+    <code>SM12</code>
+    <name>MALTEPE MYO - SAMANDIRA MERKEZ METRO</name>
+  </line>
+  <line>
+    <code>SM13</code>
+    <name>YENIDOĞAN/UFUK CADDESI - SANCAKTEPE METRO</name>
+  </line>
+  <line>
+    <code>SM14</code>
+    <name>AYAZMA YAŞAM VADISI-SANCAKTEPE METRO</name>
+  </line>
+  <line>
+    <code>SM15</code>
+    <name>VEYSEL KARANİ MAH. -KARTAL METRO</name>
+  </line>
+  <line>
+    <code>SM16</code>
+    <name>YENİDOĞAN/SAMANDIRA-KARTAL METRO</name>
+  </line>
+  <line>
+    <code>SM17</code>
+    <name>YENİDOĞAN/OSMANGAZİ MAH-KARTAL METRO</name>
+  </line>
+  <line>
+    <code>SM18</code>
+    <name>SULTANBEYLİ-HASANPAŞA METRO</name>
+  </line>
+  <line>
+    <code>SM19</code>
+    <name>SULTANBEYLİ MİMARSİNAN-HASANPAŞA METRO</name>
+  </line>
+  <line>
+    <code>SM2</code>
+    <name>AHMET YESEVI MAHALLESI - SANCAKTEPE METRO</name>
+  </line>
+  <line>
+    <code>SM3</code>
+    <name>MIMAR SINAN MAHALLESI - PROF.DR.FERIHA ÖZ HAST.</name>
+  </line>
+  <line>
+    <code>SM4</code>
+    <name>KURTKÖY METRO / HILAL KONUTLARI - SAMANDIRA MERKEZ METRO</name>
+  </line>
+  <line>
+    <code>SM5</code>
+    <name>SULTANBEYLI ORMAN CADDESI - SAMANDIRA MERKEZ METRO</name>
+  </line>
+  <line>
+    <code>SM6</code>
+    <name>SULTANBEYLİ DEVLET HASTANESİ - SAMANDIRA MERKEZ METRO</name>
+  </line>
+  <line>
+    <code>SM7</code>
+    <name>YENIDOĞAN - SAMANDIRA MERKEZ METRO</name>
+  </line>
+  <line>
+    <code>SM9</code>
+    <name>KARTAL METRO - SAMANDIRA MERKEZ METRO</name>
+  </line>
+  <line>
+    <code>T2</code>
+    <name>TAKSİM - TÜNEL</name>
+  </line>
+  <line>
+    <code>TM1</code>
+    <name>EMNİYETTEPE - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM10</code>
+    <name>YEŞİLPINAR - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM11</code>
+    <name>YEŞİLPINAR - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM12</code>
+    <name>KARADOLAP - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM13</code>
+    <name>EYÜPSULTAN - GOP - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM14</code>
+    <name>YENİMAHALLE/SARIGÖL-ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM15</code>
+    <name>CEBECİ PERONLAR - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM16</code>
+    <name>YENİMAHALLE  GOP - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM17</code>
+    <name>SULTANGAZİ - GAZİ - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM18</code>
+    <name>MESCİD-İ SELAM - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM19</code>
+    <name>ZÜBEYDE HANIM - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM2</code>
+    <name>HAMİDİYE - GÜZELTEPE - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM3</code>
+    <name>HAMİDİYE - KAĞITHANE - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM4</code>
+    <name>GÖKTÜRK- ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM5</code>
+    <name>ALİBEYKÖY - 5.LEVENT</name>
+  </line>
+  <line>
+    <code>TM6</code>
+    <name>MEVLANA - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM7</code>
+    <name>ÇIRÇIR METRO - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM8</code>
+    <name>AKŞEMSETTİN - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>TM9</code>
+    <name>GAZİOSMANPAŞA - ALİBEYKÖY</name>
+  </line>
+  <line>
+    <code>U1</code>
+    <name>BEŞİKTAŞ-ULUS</name>
+  </line>
+  <line>
+    <code>U2</code>
+    <name>BEŞİKTAŞ-ULUS</name>
+  </line>
+  <line>
+    <code>UK</code>
+    <name>UZUNÇAYIR - KADIKÖY</name>
+  </line>
+  <line>
+    <code>UM11</code>
+    <name>KİRAZLITEPE-KISIKLI METRO-ESATPAŞA</name>
+  </line>
+  <line>
+    <code>UM13</code>
+    <name>KÜÇÜKSU / YAVUZTÜRK MAHALLESİ - ÜMRANİYE EĞT.ARŞ.HST.</name>
+  </line>
+  <line>
+    <code>UM36</code>
+    <name>ESENEVLER - BULGURLU METRO</name>
+  </line>
+  <line>
+    <code>UM40</code>
+    <name>ATATÜRK MAH./ TAŞDELEN - NECİP FAZIL METRO</name>
+  </line>
+  <line>
+    <code>UM60</code>
+    <name>SANCAKTEPE - NECİP FAZIL METRO</name>
+  </line>
+  <line>
+    <code>UM61</code>
+    <name>PAŞAKÖY/YENİDOĞAN-NECİP FAZIL METRO</name>
+  </line>
+  <line>
+    <code>UM62</code>
+    <name>YENİDOĞAN/TAŞDELEN-NECİP FAZIL METRO</name>
+  </line>
+  <line>
+    <code>UM73</code>
+    <name>SABİHA GÖKÇEN H.L./ SULTANBEYLİ - SAMANDIRA MERKEZ METRO</name>
+  </line>
+  <line>
+    <code>UM74</code>
+    <name>SULTANBEYLİ DEVLET HAST./ NECİP FAZIL METRO - DUDULLU OSB</name>
+  </line>
+  <line>
+    <code>YDK</code>
+    <name>FILO YEDEK</name>
+  </line>
+</lines>
