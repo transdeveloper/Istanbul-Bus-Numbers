@@ -1,0 +1,24 @@
+{
+  "name": "istanbul-bus-numbers",
+  "version": "1.0.0",
+  "description": "This repository contains parsed and cleaned bus line data from the Istanbul Municipality's web services, exported in multiple formats for convenience and compatibility.",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transdeveloper/Istanbul-Bus-Numbers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/transdeveloper/Istanbul-Bus-Numbers/issues"
+  },
+  "homepage": "https://github.com/transdeveloper/Istanbul-Bus-Numbers#readme",
+  "dependencies": {
+    "he": "^1.2.0",
+    "xmlbuilder2": "^4.0.3"
+  }
+}
