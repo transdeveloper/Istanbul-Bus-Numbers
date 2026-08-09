@@ -1,6 +1,6 @@
 # Bus Lines Dataset
 
-This repository contains parsed and cleaned data of Istanbul bus line information extracted from the official HTML source. It is exported in multiple formats for convenience and compatibility.
+This repository contains parsed and cleaned bus line data from the Istanbul Municipality's web services, exported in multiple formats for convenience and compatibility.
 
 ---
 
@@ -45,7 +45,7 @@ This repository contains parsed and cleaned data of Istanbul bus line informatio
 
 ---
 
-### 4. `Less Details.json`
+### 4. `Data.json`
 - **Format**: JSON  
 - **Contents**: Array of objects with `code` and `name` keys.  
   Example:
@@ -59,7 +59,7 @@ This repository contains parsed and cleaned data of Istanbul bus line informatio
 
 ---
 
-### 5. `Less Details.xml`
+### 5. `Data.xml`
 - **Format**: XML  
 - **Contents**: XML with `code` and `name` fields.  
   Example:
