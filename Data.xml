@@ -1066,7 +1066,7 @@
   </line>
   <line>
     <code>16A</code>
-    <name>PENDİK - ÜSKÜDAR</name>
+    <name>PEND��K - ÜSKÜDAR</name>
   </line>
   <line>
     <code>16D</code>
@@ -1275,6 +1275,10 @@
   <line>
     <code>29Ş</code>
     <name>İSTİNYE DEREİÇİ - ŞİŞLİ</name>
+  </line>
+  <line>
+    <code>29T</code>
+    <name>TARABYAÜSTÜ / DARÜŞŞAFAKA - İSTİNYE</name>
   </line>
   <line>
     <code>300B</code>

@@ -1065,7 +1065,7 @@
   },
   {
     "code": "16A",
-    "name": "PENDİK - ÜSKÜDAR"
+    "name": "PEND��K - ÜSKÜDAR"
   },
   {
     "code": "16D",
@@ -1274,6 +1274,10 @@
   {
     "code": "29Ş",
     "name": "İSTİNYE DEREİÇİ - ŞİŞLİ"
+  },
+  {
+    "code": "29T",
+    "name": "TARABYAÜSTÜ / DARÜŞŞAFAKA - İSTİNYE"
   },
   {
     "code": "300B",
