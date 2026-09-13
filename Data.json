@@ -1065,7 +1065,7 @@
   },
   {
     "code": "16A",
-    "name": "PEND��K - ÜSKÜDAR"
+    "name": "PENDİK - ÜSKÜDAR"
   },
   {
     "code": "16D",
@@ -2602,6 +2602,10 @@
   {
     "code": "HT18",
     "name": "HADIMKÖY/İ.Ü. CERRAHPAŞA KAMPÜSÜ - TÜYAP"
+  },
+  {
+    "code": "HT19",
+    "name": "İ.Ü.CERRAHPAŞA KAMPÜSÜ - TÜYAP METROBÜS"
   },
   {
     "code": "HT20",
