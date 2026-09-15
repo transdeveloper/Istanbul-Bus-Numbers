@@ -170,7 +170,7 @@
   </line>
   <line>
     <code>87</code>
-    <name>TOPKAPI / EDİRNEKAPI - TAKS��M</name>
+    <name>TOPKAPI / EDİRNEKAPI - TAKSİM</name>
   </line>
   <line>
     <code>88</code>
@@ -889,6 +889,10 @@
     <name>İNKILAP MAHALLESİ - LİBADİYE CADDESİ / UZUNÇAYIR</name>
   </line>
   <line>
+    <code>14E</code>
+    <name>KAZIM KARABEKİR - KADIKÖY</name>
+  </line>
+  <line>
     <code>14ES</code>
     <name>ESENŞEHİR - KADIKÖY</name>
   </line>
@@ -1131,6 +1135,10 @@
   <line>
     <code>19F</code>
     <name>YEDİTEPE ÜNİV. / FINDIKLI MAHALLESİ - KADIKÖY</name>
+  </line>
+  <line>
+    <code>19FS</code>
+    <name>FERHATPAŞA - SOYAK YENİŞEHİR</name>
   </line>
   <line>
     <code>19K</code>

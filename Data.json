@@ -169,7 +169,7 @@
   },
   {
     "code": "87",
-    "name": "TOPKAPI / EDİRNEKAPI - TAKS��M"
+    "name": "TOPKAPI / EDİRNEKAPI - TAKSİM"
   },
   {
     "code": "88",
@@ -888,6 +888,10 @@
     "name": "İNKILAP MAHALLESİ - LİBADİYE CADDESİ / UZUNÇAYIR"
   },
   {
+    "code": "14E",
+    "name": "KAZIM KARABEKİR - KADIKÖY"
+  },
+  {
     "code": "14ES",
     "name": "ESENŞEHİR - KADIKÖY"
   },
@@ -1130,6 +1134,10 @@
   {
     "code": "19F",
     "name": "YEDİTEPE ÜNİV. / FINDIKLI MAHALLESİ - KADIKÖY"
+  },
+  {
+    "code": "19FS",
+    "name": "FERHATPAŞA - SOYAK YENİŞEHİR"
   },
   {
     "code": "19K",
